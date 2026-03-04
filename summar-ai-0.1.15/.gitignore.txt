@@ -1,0 +1,17 @@
+# Sistem / editör
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Log dosyaları
+*.log
+
+# Derleme / paket klasörleri (varsa)
+node_modules/
+vendor/
+dist/
+build/
+
+# Gizli ayarlar (varsa)
+.env
